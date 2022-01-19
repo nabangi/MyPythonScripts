@@ -1,2 +1,3 @@
 # MyPythonScripts
-As I continue with my Journey utilising Python and applying it in Penetration testing thanks to The CyberMentor!#Appsec#Infosec
+
+As I continue with my Journey utilising Python applying it in learning Data Structures and Penetration testing thanks to The CyberMentor!#Appsec#Infosec
