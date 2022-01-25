@@ -1,4 +1,4 @@
-
+#functions
 def greeting(name, age):
      print("Bon Martin Don Alvaro! Rememeber to call your brother " + name + " as he turns " + str(age))
 
